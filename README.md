@@ -1,4 +1,4 @@
-<img src="vid.gif" width="900">
+![Demo](vid.gif)
 
 <h2 align="center">Установка</h2>
 
