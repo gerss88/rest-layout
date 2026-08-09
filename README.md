@@ -1,22 +1,20 @@
-<p align="center">My rest Layout</p>
-
-<p align="center">Установка</p>
+<h2 align="center">Установка</h2>
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/ВАШ_ЛОГИН/my-laravel-project.git
+<br>   git clone https://github.com/ВАШ_ЛОГИН/my-laravel-project.git
 
 2. Установите зависимости:
-   composer install
-   npm install
+<br>   composer install
+<br>   npm install
 
 3. Скопируйте .env:
-   cp .env.example .env
+<br>   cp .env.example .env
 
 4. Сгенерируйте ключ:
-   php artisan key:generate
+<br>   php artisan key:generate
 
 5. Настройте БД в .env и выполните миграции:
-   php artisan migrate
+<br>   php artisan migrate
 
 6. Запустите:
-   php artisan serve
+<br>   php artisan serve
