@@ -1,7 +1,7 @@
 <h2 align="center">Установка</h2>
 
 1. Клонируйте репозиторий:
-<br>   git clone https://github.com/ВАШ_ЛОГИН/my-laravel-project.git
+<br>   git clone https://github.com/gerss88/rest-layout.git
 
 2. Установите зависимости:
 <br>   composer install
