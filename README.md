@@ -1,4 +1,4 @@
-![Demo](vid.gif)
+![Demo](public/images/vid.gif)
 
 <h2 align="center">Установка</h2>
 
